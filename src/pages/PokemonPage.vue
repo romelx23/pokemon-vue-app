@@ -41,7 +41,6 @@ onMounted(() => {
     mixPokemonArray();
     console.log('mounted');
 })
-
 </script>
 
 <template>

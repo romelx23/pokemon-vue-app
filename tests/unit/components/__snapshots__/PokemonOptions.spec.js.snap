@@ -1,0 +1,14 @@
+// Vitest Snapshot v1
+
+exports[`PokemonOptions > debe de hacer match con el Snapshot 1`] = `
+"<h3 data-v-5c866bc9=\\"\\">Opciones </h3>
+<div class=\\"options-container\\" data-v-5c866bc9=\\"\\">
+  <ul data-v-5c866bc9=\\"\\">
+    <li data-v-5c866bc9=\\"\\">bulbasaur</li>
+    <li data-v-5c866bc9=\\"\\">ivysaur</li>
+    <li data-v-5c866bc9=\\"\\">venusaur</li>
+    <li data-v-5c866bc9=\\"\\">mew</li>
+    <li data-v-5c866bc9=\\"\\">charmeleon</li>
+  </ul>
+</div>"
+`;

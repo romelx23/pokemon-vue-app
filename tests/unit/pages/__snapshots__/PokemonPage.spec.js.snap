@@ -1,0 +1,17 @@
+// Vitest Snapshot v1
+
+exports[`PokemonPage Component > debe de hacer match con el snapshot 1`] = `
+"<div class=\\"container-pokemon\\" data-v-2108564c=\\"\\">
+  <h1 data-v-2108564c=\\"\\">¿Quien es este Pokemon?</h1>
+  <div class=\\"cargando\\" data-v-2108564c=\\"\\"> Cargando el pokemon... </div>
+  <!--v-if-->
+</div>"
+`;
+
+exports[`PokemonPage Component > debe hacer match con el snapshop 1`] = `
+"<div class=\\"container-pokemon\\" data-v-2108564c=\\"\\">
+  <h1 data-v-2108564c=\\"\\">¿Quien es este Pokemon?</h1>
+  <div class=\\"cargando\\" data-v-2108564c=\\"\\"> Cargando el pokemon... </div>
+  <!--v-if-->
+</div>"
+`;
